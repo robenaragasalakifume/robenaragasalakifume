@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=robenaragasalakifume.robenaragasalakifume" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=61dafb&lines=Hi+There!+👋;+I'm+robenaragasalakifume!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=61dafb&lines=Hi+There!+👋;+I'm+Robena+Ragasalakifume!;" />
 </h1>
 <a href="https://github.com/robenaragasalakifume"><img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" />
   <p align="center">
